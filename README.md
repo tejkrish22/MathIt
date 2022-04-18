@@ -1,16 +1,31 @@
-# mathit
+# Math It
 
-A new Flutter project.
+Math it! is a fun, intuitive game based on mathematics.
 
-## Getting Started
+## TechStack used 
+<span>
+<img style="margin-left:20px, margin:20px" height="50" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png">&nbsp
 
-This project is a starting point for a Flutter application.
+<img height="50" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png">
+&nbsp&nbsp&nbsp&nbsp
+<img height="50" width="200" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png">
+</span>
+</br>
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</br>
+</br>
+<span>
+<img height="400" width="150" src="https://drive.google.com/uc?export=view&id=1UOiANPa9SWLqGV1TYyUeCYXitO15iep2">
+  &nbsp&nbsp
+<img height="400" width="150" src="https://drive.google.com/uc?export=view&id=1P3nsLoPL5SHyDhbql7tcnFyMsVHgXRUY">
+  &nbsp&nbsp
+  </span>
+ <span>
+<img height="400" width="150" src="https://drive.google.com/uc?export=view&id=1QI2WDN9pfKCGefA1orG47sDPqrN7GdUb">
+  &nbsp&nbsp
+<img height="400" width="150" src="https://drive.google.com/uc?export=view&id=1LQKhatQ-EPtyicCqClGc_bYfUcjyYBDv">
+</span>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
