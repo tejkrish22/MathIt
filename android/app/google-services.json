@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732468531899",
+    "project_id": "mathit-32aaf",
+    "storage_bucket": "mathit-32aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732468531899:android:01be369c750b5def078f9e",
+        "android_client_info": {
+          "package_name": "com.example.mathit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732468531899-jfq44s23avk46lppdmr1hpajo9fa3vdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr9iJMLBT7nj1sTk9OsEPe2p7msRNYZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732468531899-jfq44s23avk46lppdmr1hpajo9fa3vdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
